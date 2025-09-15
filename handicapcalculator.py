@@ -4,10 +4,10 @@ import statistics
 import pandas as pd
 
 # page setup
-st.set_page_config(page_title="Golf Handicap Calculator by Nick Gagnon", layout="wide")
+st.set_page_config(page_title="Golf Handicap Calculator", layout="wide")
 
 # title
-st.markdown("## ⛳️ Golf Handicap Index Calculator")
+st.markdown("## ⛳️ Golf Handicap Index Calculator by Nick Gagnon")
 st.write("Enter your 20 golf rounds below to calculate your handicap. Results update automatically.")
 
 # input scores in 5-column grid
