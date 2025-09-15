@@ -4,7 +4,7 @@ import statistics
 import pandas as pd
 
 # page setup
-st.set_page_config(page_title="Golf Handicap Calculator", layout="wide")
+st.set_page_config(page_title="Golf Handicap Calculator by Nick Gagnon", layout="wide")
 
 # title
 st.markdown("## ⛳️ Golf Handicap Index Calculator")
